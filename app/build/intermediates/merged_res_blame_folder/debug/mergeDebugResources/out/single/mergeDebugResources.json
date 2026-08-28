@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-debug-53:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-main-55:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-debug-53:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-main-55:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-debug-53:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-main-55:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.calc.matrixcalculator.app-debug-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.calc.matrixcalculator.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.calc.matrixcalculator.app-debug-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.calc.matrixcalculator.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-debug-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-debug-53:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-main-55:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-debug-53:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-debug-53:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-debug-53:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-debug-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-debug-53:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-main-55:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-debug-53:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-main-55:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.calc.matrixcalculator.app-debug-53:/drawable_app_logo.png.flat",
+        "source": "com.calc.matrixcalculator.app-main-55:/drawable/app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-debug-53:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chait\\.gradle\\daemon\\8.11.1\\com.calc.matrixcalculator.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

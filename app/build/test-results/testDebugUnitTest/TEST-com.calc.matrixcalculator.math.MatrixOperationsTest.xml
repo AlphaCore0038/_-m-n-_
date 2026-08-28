@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.calc.matrixcalculator.math.MatrixOperationsTest" tests="88" skipped="0" failures="0" errors="0" timestamp="2026-08-28T10:57:40" hostname="CHAITANYA" time="0.026">
+  <properties/>
+  <testcase name="large values" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.002"/>
+  <testcase name="skew-symmetric 2x2" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="skew-symmetric 3x3" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="non-square not skew-symmetric" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="inverse non-square returns error" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="scalar multiply by negative" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.004"/>
+  <testcase name="rref 3x3 rank 2" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="non-square not symmetric" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="add with zero matrix" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="non-symmetric not negative definite" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="not skew-symmetric nonzero diagonal" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="multiply incompatible dimensions returns error" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="transpose 1x1" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="transpose 2x2" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="inverse 1x1" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="inverse 2x2" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="inverse 3x3" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="not positive definite - negative diagonal" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="subtract same matrix returns zero" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="rank 1x1 zero" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="power three" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="gaussian elimination same as ref" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="power zero returns identity" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="add mismatched dimensions returns error" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="rotation matrix is orthogonal" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="multiply by identity" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="determinant 1x1" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="determinant 2x2" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="determinant 3x3" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="determinant 4x4" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="rank 3x3 with rank 2" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="ref already in echelon form" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="gauss-jordan same as rref" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="multiply 3x3 matrices" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="multiply 2x2 matrices" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="rank 2x2 with dependent rows" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="inverse of singular returns error" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="multiply 1x1 matrices" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="non-square not orthogonal" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="rank zero matrix" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="power non-square returns error" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="power one returns same matrix" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="determinant non-square returns error" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="scalar multiply by fractional" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="symmetric 2x2" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="singular non-square returns error" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="rank 1x1 nonzero" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="non-orthogonal matrix" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="multiply non-square matrices" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="identity is orthogonal" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="positive semi-definite not positive definite" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="identity is symmetric" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="trace 1x1" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="trace 2x2" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="trace 3x3" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="rank identity 3x3" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="power two" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="not negative definite - positive values" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="add 3x3 matrices" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="rref identity" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="scalar multiply" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="ref 2x2 identity" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="add 2x2 matrices" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="trace non-square returns error" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="subtract 2x2 matrices" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="inverse of identity is identity" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="add 1x1 matrices" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="ref 3x3" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="power 1x1 matrix" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="determinant of singular matrix is 0" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="determinant of identity is 1" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="floating point addition handles near-zero correctly" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="rref zero matrix" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="double transpose returns original" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="scalar multiply by zero" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="non-symmetric not positive definite" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="transpose 2x3 to 3x2" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="subtract mismatched dimensions returns error" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="positive definite 2x2" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="non-singular matrix" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="add negative values" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="power negative returns error" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="not symmetric 2x2" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="identity is positive definite" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="transpose of identity is identity" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="negative definite 2x2" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <testcase name="negative definite 3x3" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.001"/>
+  <testcase name="singular matrix" classname="com.calc.matrixcalculator.math.MatrixOperationsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

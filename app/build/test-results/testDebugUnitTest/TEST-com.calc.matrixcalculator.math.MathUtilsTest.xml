@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.calc.matrixcalculator.math.MathUtilsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-08-28T10:57:40" hostname="CHAITANYA" time="0.01">
+  <properties/>
+  <testcase name="isNegative works" classname="com.calc.matrixcalculator.math.MathUtilsTest" time="0.007"/>
+  <testcase name="isZero works" classname="com.calc.matrixcalculator.math.MathUtilsTest" time="0.0"/>
+  <testcase name="isPositive works" classname="com.calc.matrixcalculator.math.MathUtilsTest" time="0.0"/>
+  <testcase name="clean normalizes near-zero to zero" classname="com.calc.matrixcalculator.math.MathUtilsTest" time="0.0"/>
+  <testcase name="eq returns true for equal values" classname="com.calc.matrixcalculator.math.MathUtilsTest" time="0.0"/>
+  <testcase name="eq returns false for values outside epsilon" classname="com.calc.matrixcalculator.math.MathUtilsTest" time="0.0"/>
+  <testcase name="eq returns true for values within epsilon" classname="com.calc.matrixcalculator.math.MathUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

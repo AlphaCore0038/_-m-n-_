@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.calc.matrixcalculator.math.VectorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-08-28T10:57:40" hostname="CHAITANYA" time="0.001">
+  <properties/>
+  <testcase name="create vector" classname="com.calc.matrixcalculator.math.VectorTest" time="0.0"/>
+  <testcase name="equality with epsilon" classname="com.calc.matrixcalculator.math.VectorTest" time="0.0"/>
+  <testcase name="dimension" classname="com.calc.matrixcalculator.math.VectorTest" time="0.001"/>
+  <testcase name="inequality" classname="com.calc.matrixcalculator.math.VectorTest" time="0.0"/>
+  <testcase name="zero factory" classname="com.calc.matrixcalculator.math.VectorTest" time="0.0"/>
+  <testcase name="empty vector throws" classname="com.calc.matrixcalculator.math.VectorTest" time="0.0"/>
+  <testcase name="copy is independent" classname="com.calc.matrixcalculator.math.VectorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

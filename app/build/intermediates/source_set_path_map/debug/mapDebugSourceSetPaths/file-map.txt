@@ -1,0 +1,55 @@
+com.calc.matrixcalculator.app-emoji2-1.3.0-0 C:\Users\chait\.gradle\caches\8.11.1\transforms\0d6ae50eae941ffcff4e0294f51e593b\transformed\emoji2-1.3.0\res
+com.calc.matrixcalculator.app-ui-util-release-1 C:\Users\chait\.gradle\caches\8.11.1\transforms\0df7db55e4280f272d922042b10da128\transformed\ui-util-release\res
+com.calc.matrixcalculator.app-ui-unit-release-2 C:\Users\chait\.gradle\caches\8.11.1\transforms\1c3bc832a5d278b894e357834a3a4de7\transformed\ui-unit-release\res
+com.calc.matrixcalculator.app-animation-release-3 C:\Users\chait\.gradle\caches\8.11.1\transforms\1f7ec2433221b0191ebe6f5055555297\transformed\animation-release\res
+com.calc.matrixcalculator.app-core-runtime-2.2.0-4 C:\Users\chait\.gradle\caches\8.11.1\transforms\1ffa85d67991d80e09bb9942a1c1d3d1\transformed\core-runtime-2.2.0\res
+com.calc.matrixcalculator.app-lifecycle-livedata-core-2.8.7-5 C:\Users\chait\.gradle\caches\8.11.1\transforms\2f31df734477819e422133a32184fac5\transformed\lifecycle-livedata-core-2.8.7\res
+com.calc.matrixcalculator.app-navigation-runtime-ktx-2.8.5-6 C:\Users\chait\.gradle\caches\8.11.1\transforms\35f771819838a29d8ecd582edf0316bd\transformed\navigation-runtime-ktx-2.8.5\res
+com.calc.matrixcalculator.app-ui-geometry-release-7 C:\Users\chait\.gradle\caches\8.11.1\transforms\3d2c2a1c2c71e638d9edb6dc4ab7f3ca\transformed\ui-geometry-release\res
+com.calc.matrixcalculator.app-core-1.15.0-8 C:\Users\chait\.gradle\caches\8.11.1\transforms\3ee40688e3af9a57dc358acbbea5f804\transformed\core-1.15.0\res
+com.calc.matrixcalculator.app-material-release-9 C:\Users\chait\.gradle\caches\8.11.1\transforms\43390fcc037d0e1da25dde4d06cbeee7\transformed\material-release\res
+com.calc.matrixcalculator.app-ui-graphics-release-10 C:\Users\chait\.gradle\caches\8.11.1\transforms\44070f3d16b771c00db95f5ee5555e42\transformed\ui-graphics-release\res
+com.calc.matrixcalculator.app-runtime-release-11 C:\Users\chait\.gradle\caches\8.11.1\transforms\463b2e06ef5d7ca256394c935bbcf543\transformed\runtime-release\res
+com.calc.matrixcalculator.app-activity-compose-1.9.3-12 C:\Users\chait\.gradle\caches\8.11.1\transforms\46d1193408c959dc51996b1de16d2953\transformed\activity-compose-1.9.3\res
+com.calc.matrixcalculator.app-ui-tooling-release-13 C:\Users\chait\.gradle\caches\8.11.1\transforms\4758c1b6937c4b1b3159af4ebf5d5e63\transformed\ui-tooling-release\res
+com.calc.matrixcalculator.app-activity-ktx-1.9.3-14 C:\Users\chait\.gradle\caches\8.11.1\transforms\51843f51b89021aca806ed646934c4d4\transformed\activity-ktx-1.9.3\res
+com.calc.matrixcalculator.app-activity-1.9.3-15 C:\Users\chait\.gradle\caches\8.11.1\transforms\57942bde7080f644a553d6e034dbdd38\transformed\activity-1.9.3\res
+com.calc.matrixcalculator.app-tracing-1.2.0-16 C:\Users\chait\.gradle\caches\8.11.1\transforms\583fea445bffb67ed5b0d50d83b7828b\transformed\tracing-1.2.0\res
+com.calc.matrixcalculator.app-ui-test-manifest-1.7.6-17 C:\Users\chait\.gradle\caches\8.11.1\transforms\61e4f8f6245bca4769b5e108ae1a1779\transformed\ui-test-manifest-1.7.6\res
+com.calc.matrixcalculator.app-startup-runtime-1.1.1-18 C:\Users\chait\.gradle\caches\8.11.1\transforms\63c056ff964a9ea1e11a4c997c76954d\transformed\startup-runtime-1.1.1\res
+com.calc.matrixcalculator.app-material-icons-core-release-19 C:\Users\chait\.gradle\caches\8.11.1\transforms\6947f492d58f014f696d7578c5181722\transformed\material-icons-core-release\res
+com.calc.matrixcalculator.app-foundation-layout-release-20 C:\Users\chait\.gradle\caches\8.11.1\transforms\6bbf68a3dd9000ae80230c4d73104b20\transformed\foundation-layout-release\res
+com.calc.matrixcalculator.app-navigation-compose-2.8.5-21 C:\Users\chait\.gradle\caches\8.11.1\transforms\77b9e8e268a137e298a415cf0de70f3a\transformed\navigation-compose-2.8.5\res
+com.calc.matrixcalculator.app-profileinstaller-1.3.1-22 C:\Users\chait\.gradle\caches\8.11.1\transforms\79246ac8121e98a9e436a7a55ef9ae93\transformed\profileinstaller-1.3.1\res
+com.calc.matrixcalculator.app-lifecycle-runtime-compose-release-23 C:\Users\chait\.gradle\caches\8.11.1\transforms\7b9872d3a80a80cb3eba1d083ddb651c\transformed\lifecycle-runtime-compose-release\res
+com.calc.matrixcalculator.app-material3-release-24 C:\Users\chait\.gradle\caches\8.11.1\transforms\8708075c5d8d5448640bf7f721f666b3\transformed\material3-release\res
+com.calc.matrixcalculator.app-lifecycle-viewmodel-release-25 C:\Users\chait\.gradle\caches\8.11.1\transforms\873410d0d74f81e90ffdcf88dc4e8004\transformed\lifecycle-viewmodel-release\res
+com.calc.matrixcalculator.app-material-ripple-release-26 C:\Users\chait\.gradle\caches\8.11.1\transforms\892891c70ec0c7bdd506bed84e8d0aed\transformed\material-ripple-release\res
+com.calc.matrixcalculator.app-lifecycle-viewmodel-ktx-2.8.7-27 C:\Users\chait\.gradle\caches\8.11.1\transforms\8a31d5a01b7cd85fa2e488a3bda11f6c\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.calc.matrixcalculator.app-ui-text-release-28 C:\Users\chait\.gradle\caches\8.11.1\transforms\8b1bfd46e35db8c959a91cd4e2f63920\transformed\ui-text-release\res
+com.calc.matrixcalculator.app-lifecycle-viewmodel-savedstate-2.8.7-29 C:\Users\chait\.gradle\caches\8.11.1\transforms\8cbb7ff91b37fa2f0a637ef1eda9fe74\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.calc.matrixcalculator.app-ui-tooling-preview-release-30 C:\Users\chait\.gradle\caches\8.11.1\transforms\8cbf829a5c2fb1614eab5eb7675fd1c3\transformed\ui-tooling-preview-release\res
+com.calc.matrixcalculator.app-core-ktx-1.15.0-31 C:\Users\chait\.gradle\caches\8.11.1\transforms\91310e5f661daa561ee844419bd70215\transformed\core-ktx-1.15.0\res
+com.calc.matrixcalculator.app-foundation-release-32 C:\Users\chait\.gradle\caches\8.11.1\transforms\9b2b064aa7257df0055d303ea1934526\transformed\foundation-release\res
+com.calc.matrixcalculator.app-lifecycle-viewmodel-compose-release-33 C:\Users\chait\.gradle\caches\8.11.1\transforms\ad573e2d20ca6ed6b0d63009df17e636\transformed\lifecycle-viewmodel-compose-release\res
+com.calc.matrixcalculator.app-runtime-saveable-release-34 C:\Users\chait\.gradle\caches\8.11.1\transforms\bb54f3e066756f07617809c96ba53e6b\transformed\runtime-saveable-release\res
+com.calc.matrixcalculator.app-navigation-common-ktx-2.8.5-35 C:\Users\chait\.gradle\caches\8.11.1\transforms\bd13e3109dbb3979d6d13bbdb1af340c\transformed\navigation-common-ktx-2.8.5\res
+com.calc.matrixcalculator.app-lifecycle-runtime-release-36 C:\Users\chait\.gradle\caches\8.11.1\transforms\bf008ba466465a7457a95b2ae54a6d9c\transformed\lifecycle-runtime-release\res
+com.calc.matrixcalculator.app-lifecycle-runtime-ktx-release-37 C:\Users\chait\.gradle\caches\8.11.1\transforms\ce6b82690f3763b3a119890a95139291\transformed\lifecycle-runtime-ktx-release\res
+com.calc.matrixcalculator.app-navigation-runtime-2.8.5-38 C:\Users\chait\.gradle\caches\8.11.1\transforms\cff8ee6f7f9f7b36836aed92607e988a\transformed\navigation-runtime-2.8.5\res
+com.calc.matrixcalculator.app-annotation-experimental-1.4.1-39 C:\Users\chait\.gradle\caches\8.11.1\transforms\d465106fbe55a8fee88b9ce22141129d\transformed\annotation-experimental-1.4.1\res
+com.calc.matrixcalculator.app-graphics-path-1.0.1-40 C:\Users\chait\.gradle\caches\8.11.1\transforms\de11abf069f64fb8f3356adf745a6d9c\transformed\graphics-path-1.0.1\res
+com.calc.matrixcalculator.app-lifecycle-process-2.8.7-41 C:\Users\chait\.gradle\caches\8.11.1\transforms\e78c53db45f3bbfa4c8cb0f256831c9e\transformed\lifecycle-process-2.8.7\res
+com.calc.matrixcalculator.app-animation-core-release-42 C:\Users\chait\.gradle\caches\8.11.1\transforms\ea228b57d4e66d0fcafa5eb1c4ce9d4f\transformed\animation-core-release\res
+com.calc.matrixcalculator.app-ui-tooling-data-release-43 C:\Users\chait\.gradle\caches\8.11.1\transforms\ea77bf21ce3a22960d5ed23e7a6f0146\transformed\ui-tooling-data-release\res
+com.calc.matrixcalculator.app-navigation-common-2.8.5-44 C:\Users\chait\.gradle\caches\8.11.1\transforms\eb6e162364271c328b385a922b39a003\transformed\navigation-common-2.8.5\res
+com.calc.matrixcalculator.app-savedstate-ktx-1.2.1-45 C:\Users\chait\.gradle\caches\8.11.1\transforms\f2931c9f73d53fe5e60883f658e0392c\transformed\savedstate-ktx-1.2.1\res
+com.calc.matrixcalculator.app-savedstate-1.2.1-46 C:\Users\chait\.gradle\caches\8.11.1\transforms\f2b9257220b20d34598a157b687fe038\transformed\savedstate-1.2.1\res
+com.calc.matrixcalculator.app-customview-poolingcontainer-1.0.0-47 C:\Users\chait\.gradle\caches\8.11.1\transforms\f5122cc6b908dc082fc22eefd3830183\transformed\customview-poolingcontainer-1.0.0\res
+com.calc.matrixcalculator.app-ui-release-48 C:\Users\chait\.gradle\caches\8.11.1\transforms\fc67c52987f7552025f18120b6d55cbd\transformed\ui-release\res
+com.calc.matrixcalculator.app-resValues-49 C:\Users\chait\OneDrive\Desktop\New folder\projects\CalC\app\build\generated\res\resValues\debug
+com.calc.matrixcalculator.app-packageDebugResources-50 C:\Users\chait\OneDrive\Desktop\New folder\projects\CalC\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.calc.matrixcalculator.app-packageDebugResources-51 C:\Users\chait\OneDrive\Desktop\New folder\projects\CalC\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.calc.matrixcalculator.app-debug-52 C:\Users\chait\OneDrive\Desktop\New folder\projects\CalC\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.calc.matrixcalculator.app-debug-53 C:\Users\chait\OneDrive\Desktop\New folder\projects\CalC\app\src\debug\res
+com.calc.matrixcalculator.app-main-54 C:\Users\chait\OneDrive\Desktop\New folder\projects\CalC\app\src\main\res

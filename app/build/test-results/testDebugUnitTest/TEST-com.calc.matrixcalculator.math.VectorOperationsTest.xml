@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.calc.matrixcalculator.math.VectorOperationsTest" tests="47" skipped="0" failures="0" errors="0" timestamp="2026-08-28T10:57:40" hostname="CHAITANYA" time="0.016">
+  <properties/>
+  <testcase name="non-parallel 2D vectors" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.008"/>
+  <testcase name="parallel vectors detected" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.001"/>
+  <testcase name="add 2D vectors" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="parallel 2D vectors via proportionality" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="scalar multiply by negative" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="parallel opposite direction" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="unit vector zero vector returns error" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="add with negative values" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="perpendicular 3D vectors" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="cross product anti-commutative" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="cross product non-3D returns error" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.001"/>
+  <testcase name="unit vector magnitude is 1" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="dot product mismatched dimensions returns error" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="non-perpendicular vectors" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="magnitude zero vector" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="add mismatched dimensions returns error" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="magnitude unit vectors" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="unit vector already unit" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="parallel same direction" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="parallel mismatched dimensions returns error" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.001"/>
+  <testcase name="angle between parallel vectors is 0" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.001"/>
+  <testcase name="projection onto zero vector returns error" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="perpendicular mismatched dimensions returns error" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="zero vector is parallel to everything" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="cross product parallel vectors is zero" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="magnitude 1D" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="magnitude 3D" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="non-parallel vectors" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.001"/>
+  <testcase name="dot product 3D" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="angle zero vector returns error" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="perpendicular vectors" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="dot product orthogonal vectors is zero" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="scalar multiply" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="projection of parallel vector" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="projection of perpendicular vector is zero" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="cross product standard" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="subtract same vector returns zero" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="projection mismatched dimensions returns error" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.001"/>
+  <testcase name="unit vector" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="scalar multiply by zero" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="subtract mismatched dimensions returns error" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="dot product with itself equals magnitude squared" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="angle mismatched dimensions returns error" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="subtract 2D vectors" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="angle between opposite vectors is pi" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="angle between perpendicular vectors is pi 2" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <testcase name="add 3D vectors" classname="com.calc.matrixcalculator.math.VectorOperationsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
